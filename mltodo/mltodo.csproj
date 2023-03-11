@@ -14,4 +14,12 @@
     <PackageReference Include="Microsoft.AspNetCore.Razor.Design" Version="2.1.2" PrivateAssets="All" />
   </ItemGroup>
 
+  <Target Name="pipelinePreDeployCopyAllFilesToOneFolder">
+    <Message Text="Copying files to output directory..." />
+    <ItemGroup>
+      <DeployFiles Include="**\*" />
+    </ItemGroup>
+    <Copy SourceFiles="@(DeployFiles)" DestinationFolder="$(PipelineArtifactDirectory)\%(RecursiveDir)" />
+  </Target>
+
 </Project>
