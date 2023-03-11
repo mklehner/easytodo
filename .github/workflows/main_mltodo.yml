@@ -53,5 +53,5 @@ jobs:
         with:
           app-name: 'mltodo'
           slot-name: 'Production'
-          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_68C47FDFC05B4EAF94FE0D2B295FF349 }}
+          publish-profile: ${{ secrets.AZUREAPPSERVICE_PUBLISHPROFILE_4C08A3D9F8004AE4AB7BC51F464FCBA6 }}
           package: .
