@@ -11,10 +11,17 @@ namespace mltodo.Controllers
     public class ValuesController : ControllerBase
     {
         // GET api/values
+        //[HttpGet]
+        //public ActionResult<IEnumerable<string>> Get()
+        //{
+        //    return new string[] { "value1", "value2" };
+        //}
+
+        // GET api/hello
         [HttpGet]
-        public ActionResult<IEnumerable<string>> Get()
+        public ActionResult<string> Get()
         {
-            return new string[] { "value1", "value2" };
+            return "Hello World";
         }
 
         // GET api/values/5

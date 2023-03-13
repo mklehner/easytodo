@@ -3,7 +3,6 @@ D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\bin\Debug\netcoreapp2.1\mltodo.runtim
 D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\bin\Debug\netcoreapp2.1\mltodo.runtimeconfig.dev.json
 D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\bin\Debug\netcoreapp2.1\mltodo.dll
 D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\bin\Debug\netcoreapp2.1\mltodo.pdb
-D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Debug\netcoreapp2.1\mltodo.csprojAssemblyReference.cache
 D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Debug\netcoreapp2.1\mltodo.csproj.CoreCompileInputs.cache
 D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Debug\netcoreapp2.1\mltodo.RazorAssemblyInfo.cache
 D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Debug\netcoreapp2.1\mltodo.RazorAssemblyInfo.cs
@@ -13,3 +12,8 @@ D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Debug\netcoreapp2.1\mltodo.RazorT
 D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Debug\netcoreapp2.1\mltodo.dll
 D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Debug\netcoreapp2.1\mltodo.pdb
 D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Debug\netcoreapp2.1\UserSecretsAssemblyInfo.cs
+D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\bin\Debug\netcoreapp2.1\appsettings.Development.json
+D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\bin\Debug\netcoreapp2.1\appsettings.json
+D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Debug\netcoreapp2.1\mltodo.csproj.AssemblyReference.cache
+D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Debug\netcoreapp2.1\mltodo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Debug\netcoreapp2.1\mltodo.genruntimeconfig.cache
