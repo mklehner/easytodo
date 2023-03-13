@@ -1,0 +1,6 @@
+D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.Development.json
+D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Release\netcoreapp2.1\PubTmp\Out\appsettings.json
+D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Release\netcoreapp2.1\PubTmp\Out\mltodo.dll
+D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Release\netcoreapp2.1\PubTmp\Out\mltodo.runtimeconfig.json
+D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Release\netcoreapp2.1\PubTmp\Out\mltodo.pdb
+D:\Daten\Projekte(neu)\Neues\mltodo\mltodo\obj\Release\netcoreapp2.1\PubTmp\Out\mltodo.deps.json
