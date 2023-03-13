@@ -2,6 +2,7 @@
 
   <PropertyGroup>
     <TargetFramework>netcoreapp2.1</TargetFramework>
+    <CheckEolTargetFramework>false</CheckEolTargetFramework>
     <UserSecretsId>655d85b1-656a-4451-8010-65b187680926</UserSecretsId>
   </PropertyGroup>
 
